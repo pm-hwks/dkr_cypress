@@ -1,0 +1,1 @@
+docker build -t pmcldr/dkr_cypress:6.3 .
